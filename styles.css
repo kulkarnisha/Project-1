@@ -6,10 +6,10 @@ p{
     width:150px;
 }
 
-@media screen and (min-width:266px) {
+@media screen and (max-width:266px) {
     p {
          text-align: center;
-         margin:315px 650px;
+         margin:270px 196px;
     }
 }
 
