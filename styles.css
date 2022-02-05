@@ -2,8 +2,15 @@ p{
     text-align: center;
     background-color: red;
     padding: 10px;
-    margin:600px 550px;
+    margin:315px 650px;
     width:150px;
+}
+
+@media screen and (min-width:266px) {
+    p {
+         text-align: center;
+         margin:315px 650px;
+    }
 }
 
 
