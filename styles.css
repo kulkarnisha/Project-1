@@ -1,18 +1,13 @@
-p{
-    text-align: center;
-    background-color: red;
-    padding: 10px;
-    margin:315px 650px;
-    width:150px;
+label {
+     font-size:30px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-@media screen and (max-width:266px) {
-    p {
-         text-align: center;
-         margin:270px 196px;
-    }
+input {
+    width:400px;
+    padding:10px;
+    border: solid;
 }
-
 
 
 
